@@ -16,7 +16,7 @@ $ git clone https://github.com/notradamequeen/warpin-chat.git
 
 # How to run locally with docker
 ### Install Docker
-for docker installation please refer to this link: https://docs.docker.com/install/
+for docker installation please refer to this link: https://docs.docker.com/install/ \
 after docker successfully installed. run comman below
   ```sh
   $ cd warpin-chat
@@ -25,8 +25,8 @@ after docker successfully installed. run comman below
 -------------------
 # Run locally without docker
 ### Install Virtualenv
-virtualenv: https://virtualenv.pypa.io/en/latest/installation/
-virtualenvwrapper: https://virtualenvwrapper.readthedocs.io/en/latest/install.html
+virtualenv: https://virtualenv.pypa.io/en/latest/installation/ \
+virtualenvwrapper: https://virtualenvwrapper.readthedocs.io/en/latest/install.html \
 after virtualenv successfully install, then you need to create virtualenv python3 and activate the virtualenv.
 ### Runserver
 ```sh
