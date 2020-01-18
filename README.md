@@ -14,7 +14,7 @@ Powered by:
 
 # Get The Source Codes
 ```
-$ git clone <>
+$ git clone https://github.com/notradamequeen/warpin-chat.git
 ```
 
 # How to run locally with docker
