@@ -1,0 +1,11 @@
+version: '3'
+services:
+    web:
+        build: .
+        image: warpin-chat
+        entrypoint: ./scripts/run_web.sh
+        ports:
+            - "5000:5000"
+        volumes:
+            - .:/web
+        restart: unless-stopped
