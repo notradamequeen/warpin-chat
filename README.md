@@ -1,8 +1,5 @@
 # Warpin Test Chat APP
 
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Warpin Test Chat App is a simple real time  chat app.
 Powered by:
 - python3
